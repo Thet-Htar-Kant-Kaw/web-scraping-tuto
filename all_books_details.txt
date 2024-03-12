@@ -1,0 +1,2854 @@
+[
+  {
+    "title": "Building Arduino Projects for the Internet of Things",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "31544549",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e25/e25e776edda5e399b5d9713caeacd74c-s.jpg",
+    "dataLoc": "14",
+    "pageCount": "299 Pages",
+    "pub_year": "2016",
+    "fileSize": "16.9 MB"
+  },
+  {
+    "title": "Basics Of Automobile",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "10106074",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/efe/efecd199fb3e7f54aead9aa077603cbf-s.jpg",
+    "dataLoc": "18",
+    "pageCount": "158 Pages",
+    "pub_year": "2005",
+    "fileSize": "377 KB"
+  },
+  {
+    "title": "Web Animation using JavaScript: Develop & Design",
+    "author": "Julian Shapiro",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "25729884",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/7cd/7cd97aae6412a252b0b747dfc675873e-s.jpg",
+    "dataLoc": "17",
+    "pageCount": "402 Pages",
+    "pub_year": "2015",
+    "fileSize": "5.38 MB"
+  },
+  {
+    "title": "PHP, MySQL, JavaScript & HTML5 All-In-One For Dummies",
+    "author": "",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "18896179",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e1e/e1ec7abe963086aec83a0335c51d2fce-s.jpg",
+    "dataLoc": "7",
+    "pageCount": "724 Pages",
+    "pub_year": "2013",
+    "fileSize": "13.86 MB"
+  },
+  {
+    "title": "Hacking Gmail",
+    "author": "Ben Hammersley",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "24033860",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/10a/10abbf41cb99620b609741406f8a05a7-s.jpg",
+    "dataLoc": "11",
+    "pageCount": "310 Pages",
+    "pub_year": "2006",
+    "fileSize": "5.29 MB"
+  },
+  {
+    "title": "Beginning Programming for Dummies",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "7970080",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/37e/37ebe286fba9242392fc95cbbe667ee9-s.jpg",
+    "dataLoc": "10",
+    "pageCount": "433 Pages",
+    "pub_year": "2004",
+    "fileSize": "7.68 MB"
+  },
+  {
+    "title": "PRACTICAL MATLAB® FOR ENGINEERS PRACTICAL MATLAB ",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "15816890",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/79e/79ea93c34bd22addc10d87f1fc5e6465-s.jpg",
+    "dataLoc": "19",
+    "pageCount": "708 Pages",
+    "pub_year": "2008",
+    "fileSize": "7.23 MB"
+  },
+  {
+    "title": "MATLAB Programming Fundamentals - MathWorks",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "6201201",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/73a/73ab08df6083c6d6aa93758cc73f6ce2-s.jpg",
+    "dataLoc": "15",
+    "pageCount": "1,104 Pages",
+    "pub_year": "2016",
+    "fileSize": "6.89 MB"
+  },
+  {
+    "title": "COMPUTER HARDWARE AND SOFTWARE",
+    "author": "Linda Crane",
+    "tags": [
+      "Hardware",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "1701848",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c6b/c6b6722d830ac18bed8cc004c173e24d-s.jpg",
+    "dataLoc": "12",
+    "pageCount": "81 Pages",
+    "pub_year": "2008",
+    "fileSize": "1.38 MB"
+  },
+  {
+    "title": "Android Programming Tutorials",
+    "author": "Mark Murphy",
+    "tags": [
+      "Programming",
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "10189445",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/141/141f43f08eeb4dcc6aa5ed65913567c5-s.jpg",
+    "dataLoc": "16",
+    "pageCount": "447 Pages",
+    "pub_year": "2011",
+    "fileSize": "6.15 MB"
+  },
+  {
+    "title": "Web Design with HTML and CSS",
+    "author": "",
+    "tags": [
+      "Web Design",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "18760364",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3e0/3e0e35e2305c83820e7f7375aaabe6e0-s.jpg",
+    "dataLoc": "4",
+    "pageCount": "307 Pages",
+    "pub_year": "2011",
+    "fileSize": "24.12 MB"
+  },
+  {
+    "title": "Python Programming: An Introduction to Computer Science",
+    "author": "",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "941324",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/435/435ebf44f65ab314be717cc2169c553a-s.jpg",
+    "dataLoc": "20",
+    "pageCount": "261 Pages",
+    "pub_year": "2012",
+    "fileSize": "1.2 MB"
+  },
+  {
+    "title": "Data Analysis with Microsoft Excel",
+    "author": "Kenneth N. Berk",
+    "tags": [
+      "Editor's Picks",
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "25241812",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/a18/a18fcb4886ec0e3bfc7854570a8776a2-s.jpg",
+    "dataLoc": "1",
+    "pageCount": "613 Pages",
+    "pub_year": "2010",
+    "fileSize": "10.55 MB"
+  },
+  {
+    "title": "Networking for Dummies--For Dummies; 7th Ed.",
+    "author": "Lowe, Doug.",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "9679716",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/4de/4de5c99bf8632f40f057c44101ff9ed5-s.jpg",
+    "dataLoc": "9",
+    "pageCount": "435 Pages",
+    "pub_year": "2004",
+    "fileSize": "9.24 MB"
+  },
+  {
+    "title": "Python Tutorial - Tutorials Point",
+    "author": "Mohammad Mohtashim",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "10195863",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d5d/d5d7ecb45f3f936b8362c533e379f478-s.jpg",
+    "dataLoc": "2",
+    "pageCount": "461 Pages",
+    "pub_year": "2016",
+    "fileSize": "3.76 MB"
+  },
+  {
+    "title": "Social Media Marketing",
+    "author": "Evans, Dave.",
+    "tags": [
+      "Internet",
+      "Marketing"
+    ],
+    "language": "",
+    "dataId": "7221224",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3d7/3d721cafb681643e52c1824ba07cdf0d-s.jpg",
+    "dataLoc": "8",
+    "pageCount": "410 Pages",
+    "pub_year": "2002",
+    "fileSize": "4.74 MB"
+  },
+  {
+    "title": "Hacking Wireless Networks For Dummies.pdf",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18757441",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/a73/a731c4207ba8c5653a25a7b7bffae129-s.jpg",
+    "dataLoc": "13",
+    "pageCount": "387 Pages",
+    "pub_year": "2005",
+    "fileSize": "10.97 MB"
+  },
+  {
+    "title": "Mastering Photoshop for Web Design",
+    "author": "",
+    "tags": [
+      "Web Design",
+      "Graphic Design",
+      "Editor's Picks",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "8109058",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/bb3/bb394f5e6d24d9e18a574df6a70a22a3-s.jpg",
+    "dataLoc": "3",
+    "pageCount": "216 Pages",
+    "pub_year": "2011",
+    "fileSize": "13.46 MB"
+  },
+  {
+    "title": "Digital Logic And Computer Design By M. Morris Mano",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "34332016",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/006/006570f777acac16006ce568fb8d9793-s.jpg",
+    "dataLoc": "5",
+    "pageCount": "525 Pages",
+    "pub_year": "2006",
+    "fileSize": "13.29 MB"
+  },
+  {
+    "title": "Hacking For Dummies, 3rd Edition",
+    "author": "Beaver, Kevin",
+    "tags": [
+      "Internet",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "8142411",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/14a/14a098772692e961057750876de07277-s.jpg",
+    "dataLoc": "6",
+    "pageCount": "411 Pages",
+    "pub_year": "2009",
+    "fileSize": "8.57 MB"
+  },
+  {
+    "title": "Data Structures with Java",
+    "author": "",
+    "tags": [
+      "Programming",
+      "Editor's Picks",
+      "Most Popular"
+    ],
+    "language": "",
+    "dataId": "19408917",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/17a/17adb14fedc8492d233286267545b7bd-s.jpg",
+    "dataLoc": "30",
+    "pageCount": "351 Pages",
+    "pub_year": "2007",
+    "fileSize": "7.23 MB"
+  },
+  {
+    "title": "IT Essentials: PC Hardware and Software Companion Guide",
+    "author": "Cisco Networking Academy",
+    "tags": [
+      "Hardware",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "3034642",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/6da/6da82427cc34686c663473df37c9417d-s.jpg",
+    "dataLoc": "34",
+    "pageCount": "108 Pages",
+    "pub_year": "2013",
+    "fileSize": "1.36 MB"
+  },
+  {
+    "title": "Reverse Engineering",
+    "author": "Eilam, Eldad.",
+    "tags": [
+      "Engineering",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "18717877",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/be4/be446260e2ea7690b6982d5ad490d74b-s.jpg",
+    "dataLoc": "31",
+    "pageCount": "620 Pages",
+    "pub_year": "2005",
+    "fileSize": "8.54 MB"
+  },
+  {
+    "title": "WordPress Web Design For Dummies",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "24529047",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/498/498549f0cb16afc0a15e4388cafa14f6-s.jpg",
+    "dataLoc": "33",
+    "pageCount": "387 Pages",
+    "pub_year": "2013",
+    "fileSize": "34.48 MB"
+  },
+  {
+    "title": "Signals and Systems - Electrical Engineering",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "17936001",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/90a/90ad2eacb328506d206a73111238c69b-s.jpg",
+    "dataLoc": "36",
+    "pageCount": "769 Pages",
+    "pub_year": "2012",
+    "fileSize": "6.34 MB"
+  },
+  {
+    "title": "Microsoft Access VBA Macro Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "1108997",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/88b/88bd1446cc1c2a90c2fbe1f8e8d46b71-s.jpg",
+    "dataLoc": "38",
+    "pageCount": "400 Pages",
+    "pub_year": "2010",
+    "fileSize": "4.37 MB"
+  },
+  {
+    "title": "Data Communication and Computer Network",
+    "author": "Manisha Shejwal",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18727785",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/48a/48aaf84b6bdeed6edcb9a2e20352add4-s.jpg",
+    "dataLoc": "37",
+    "pageCount": "106 Pages",
+    "pub_year": "2014",
+    "fileSize": "2.56 MB"
+  },
+  {
+    "title": "Foundations of Python Network Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "22768963",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ef9/ef9268f9fca2a6fbdcf402f6ab92cdc6-s.jpg",
+    "dataLoc": "32",
+    "pageCount": "369 Pages",
+    "pub_year": "2014",
+    "fileSize": "3.71 MB"
+  },
+  {
+    "title": "Beginning Java Programming For Dummies",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "33408771",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/8f5/8f5a539f83a88fd40f95b0d148d2bb83-s.jpg",
+    "dataLoc": "24",
+    "pageCount": "408 Pages",
+    "pub_year": "2005",
+    "fileSize": "5.87 MB"
+  },
+  {
+    "title": "Mathematical Foundation of Computer Science",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18828981",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/551/551bd7ab438fc15d0b1daa09b5e9f1d1-s.jpg",
+    "dataLoc": "35",
+    "pageCount": "393 Pages",
+    "pub_year": "2007",
+    "fileSize": "2.58 MB"
+  },
+  {
+    "title": "Excel Data Analysis",
+    "author": "",
+    "tags": [
+      "Academic & Education",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "26617723",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b25/b255b73373ce7e3c387882759c21eacb-s.jpg",
+    "dataLoc": "39",
+    "pageCount": "353 Pages",
+    "pub_year": "2010",
+    "fileSize": "15.28 MB"
+  },
+  {
+    "title": "The 8051 Microcontroller and Embedded",
+    "author": "",
+    "tags": [
+      "Programming",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "952238",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/437/43779a398d95161e516066a3d0edb206-s.jpg",
+    "dataLoc": "23",
+    "pageCount": "617 Pages",
+    "pub_year": "2008",
+    "fileSize": "4.2 MB"
+  },
+  {
+    "title": "Modeling Structured Finance Cash Flows with Microsoft Excel",
+    "author": "",
+    "tags": [
+      "Academic & Education",
+      "Finance",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "6423094",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/9c3/9c342e1cb23734b9e76ddaa81d993f1a-s.jpg",
+    "dataLoc": "40",
+    "pageCount": "221 Pages",
+    "pub_year": "2007",
+    "fileSize": "6.62 MB"
+  },
+  {
+    "title": "Learn Java for Web Development",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "25178589",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d44/d445bd0a4ebb52943adde5f11735feea-s.jpg",
+    "dataLoc": "28",
+    "pageCount": "461 Pages",
+    "pub_year": "2014",
+    "fileSize": "16.88 MB"
+  },
+  {
+    "title": "Automobile Engineering",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "39671340",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b75/b75418159a6223353f60d0f283ffb52f-s.jpg",
+    "dataLoc": "27",
+    "pageCount": "247 Pages",
+    "pub_year": "2012",
+    "fileSize": "1.43 MB"
+  },
+  {
+    "title": "Pro HTML5 and CSS3 Design Patterns",
+    "author": "",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "12105664",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/90a/90a131f9da39985cfa1cbbee463d91a5-s.jpg",
+    "dataLoc": "29",
+    "pageCount": "514 Pages",
+    "pub_year": "2011",
+    "fileSize": "11.68 MB"
+  },
+  {
+    "title": "Cracking the Coding Interview, Fourth Edition: 150 Programming ",
+    "author": "Gayle Laakmann",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "685299",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/955/95567fe62c3159d5ac99e2fbdecce7d9-s.jpg",
+    "dataLoc": "22",
+    "pageCount": "310 Pages",
+    "pub_year": "2010",
+    "fileSize": "2.05 MB"
+  },
+  {
+    "title": "Internet of Things",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "17335820",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/51f/51f81ad1f15c986d9665cddaa084ebbc-s.jpg",
+    "dataLoc": "25",
+    "pageCount": "144 Pages",
+    "pub_year": "2015",
+    "fileSize": "3.28 MB"
+  },
+  {
+    "title": "Python and Tkinter Programming",
+    "author": "John E. Grayson",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "33413070",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f1c/f1c086912b8000000b326459a73aad6b-s.jpg",
+    "dataLoc": "26",
+    "pageCount": "684 Pages",
+    "pub_year": "2005",
+    "fileSize": "8.97 MB"
+  },
+  {
+    "title": "PC Hardware A Beginner's Guide",
+    "author": "",
+    "tags": [
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "18831195",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/045/04573a7c6a7567a8170299e13f38f869-s.jpg",
+    "dataLoc": "21",
+    "pageCount": "673 Pages",
+    "pub_year": "2009",
+    "fileSize": "14.17 MB"
+  },
+  {
+    "title": "30 Days To Internet Marketing Success",
+    "author": "Joe Kumar",
+    "tags": [
+      "Internet",
+      "Marketing"
+    ],
+    "language": "",
+    "dataId": "3866749",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/59a/59a296f02ff33514da64d3fd1f1d60e4-s.jpg",
+    "dataLoc": "60",
+    "pageCount": "535 Pages",
+    "pub_year": "2003",
+    "fileSize": "2.7 MB"
+  },
+  {
+    "title": "Hacking Google Maps and Google Earth",
+    "author": "Martin C. Brown",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "25220171",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e58/e58411bd76d02b82e0ef7be6e1e2ba23-s.jpg",
+    "dataLoc": "51",
+    "pageCount": "401 Pages",
+    "pub_year": "2006",
+    "fileSize": "11.28 MB"
+  },
+  {
+    "title": "Gray Hat Hacking, 3rd Edition",
+    "author": "",
+    "tags": [
+      "Academic & Education",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "24105736",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/829/829b89fc8fde9f2b3e737180ca1e1fcb-s.jpg",
+    "dataLoc": "50",
+    "pageCount": "721 Pages",
+    "pub_year": "2012",
+    "fileSize": "12.76 MB"
+  },
+  {
+    "title": "Mastering Windows Server 2016 Hyber V - John Savill",
+    "author": "John Savill",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "34357940",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e28/e28f02914c1633496dfcc7abf2864e8e-s.jpg",
+    "dataLoc": "59",
+    "pageCount": "795 Pages",
+    "pub_year": "2017",
+    "fileSize": "18.23 MB"
+  },
+  {
+    "title": "Software Engineering: Principles and Practice",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "24634430",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/5a3/5a3abad4dc886f439f39276a933e554b-s.jpg",
+    "dataLoc": "58",
+    "pageCount": "560 Pages",
+    "pub_year": "2007",
+    "fileSize": "4.22 MB"
+  },
+  {
+    "title": "JavaScript Tutorial",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "15628687",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d8b/d8bc12953b607c741d8ab71052387af4-s.jpg",
+    "dataLoc": "56",
+    "pageCount": "2,177 Pages",
+    "pub_year": "2001",
+    "fileSize": "34.64 MB"
+  },
+  {
+    "title": "MatLab GUI Tutorial",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "20299387",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f09/f099fce46d4c1ef44877a2072aa364e6-s.jpg",
+    "dataLoc": "53",
+    "pageCount": "500 Pages",
+    "pub_year": "2015",
+    "fileSize": "6.26 MB"
+  },
+  {
+    "title": "The Internet Encyclopedia",
+    "author": "Hossein Bidgoli",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "28600331",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/5b7/5b73f96e5df95f298ac026d5ab9e0831-s.jpg",
+    "dataLoc": "57",
+    "pageCount": "979 Pages",
+    "pub_year": "2004",
+    "fileSize": "17.32 MB"
+  },
+  {
+    "title": "Modern Web Design & Development",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "34369800",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f94/f94bd79867ad69732a6361bc9691d27e-s.jpg",
+    "dataLoc": "55",
+    "pageCount": "309 Pages",
+    "pub_year": "2011",
+    "fileSize": "19.27 MB"
+  },
+  {
+    "title": "HTML5, CSS3, and JavaScript Fourth Edition",
+    "author": "",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "20070945",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f3b/f3b4295e4922d159386c59742f4c6a64-s.jpg",
+    "dataLoc": "48",
+    "pageCount": "370 Pages",
+    "pub_year": "2016",
+    "fileSize": "8.98 MB"
+  },
+  {
+    "title": "Building a Website for Dummies",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "18718529",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/8cc/8cc8e00d297dd14552048c11c5c9db74-s.jpg",
+    "dataLoc": "54",
+    "pageCount": "365 Pages",
+    "pub_year": "2012",
+    "fileSize": "10.06 MB"
+  },
+  {
+    "title": "Alternators, Starters, Generators & Motors",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "15058745",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/fcb/fcb7c84eb8ce3248ec31044eb05b327d-s.jpg",
+    "dataLoc": "47",
+    "pageCount": "632 Pages",
+    "pub_year": "2008",
+    "fileSize": "12.97 MB"
+  },
+  {
+    "title": "CSS Web Design For Dummies",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "15045286",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/44a/44a0317aec3dcb87215d886b8c4186ad-s.jpg",
+    "dataLoc": "52",
+    "pageCount": "385 Pages",
+    "pub_year": "2005",
+    "fileSize": "12.49 MB"
+  },
+  {
+    "title": "Teach Your Kids To Code: A Parent-friendly Guide to Python Programming",
+    "author": "",
+    "tags": [
+      "Academic & Education",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "33547006",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ab5/ab57d42519b0616fd0109d18f4c00de2-s.jpg",
+    "dataLoc": "45",
+    "pageCount": "335 Pages",
+    "pub_year": "2015",
+    "fileSize": "14.89 MB"
+  },
+  {
+    "title": "3D Game Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "28124386",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/150/150de55b2e702d4c44df90c9c8cfc9c3-s.jpg",
+    "dataLoc": "46",
+    "pageCount": "296 Pages",
+    "pub_year": "2013",
+    "fileSize": "13.44 MB"
+  },
+  {
+    "title": "Photoshop for Dummies",
+    "author": "",
+    "tags": [
+      "Art",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "7451134",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/6b4/6b455692c155a2d495af5c815c1232d6-s.jpg",
+    "dataLoc": "42",
+    "pageCount": "778 Pages",
+    "pub_year": "2010",
+    "fileSize": "35.44 MB"
+  },
+  {
+    "title": "Expert C Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "6983889",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b8c/b8c6df81bd99acb436442e0444849d7c-s.jpg",
+    "dataLoc": "43",
+    "pageCount": "290 Pages",
+    "pub_year": "2002",
+    "fileSize": "2.15 MB"
+  },
+  {
+    "title": "Essential Skills Manual - Automotive Service Technician",
+    "author": "Trade Essentials",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "25335620",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/1e0/1e0f0863564de11403099d22753d3475-s.jpg",
+    "dataLoc": "41",
+    "pageCount": "255 Pages",
+    "pub_year": "2010",
+    "fileSize": "3.86 MB"
+  },
+  {
+    "title": "Programming and Problem Solving with Java",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "20136049",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d52/d524f01aff76132643a210303b22d1eb-s.jpg",
+    "dataLoc": "44",
+    "pageCount": "810 Pages",
+    "pub_year": "1999",
+    "fileSize": "28.66 MB"
+  },
+  {
+    "title": "Microsoft® SQL Server® 2012 Bible",
+    "author": "Adam Jorgensen",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "19639005",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ccf/ccf1e79586257d65d3e5a7877bd0c8b7-s.jpg",
+    "dataLoc": "49",
+    "pageCount": "1,418 Pages",
+    "pub_year": "2012",
+    "fileSize": "27.4 MB"
+  },
+  {
+    "title": "Automobile Mechanic - OIT/Cinterfor",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "15558959",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/4d6/4d6030202beba44c377d14a022cd0e8a-s.jpg",
+    "dataLoc": "77",
+    "pageCount": "492 Pages",
+    "pub_year": "1610",
+    "fileSize": "9.21 MB"
+  },
+  {
+    "title": "Excel Timesaving Techniques For Dummies",
+    "author": "Greg Harvey",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18774281",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c5e/c5e77d31a2186df8a3da3f9a7a091fd0-s.jpg",
+    "dataLoc": "80",
+    "pageCount": "410 Pages",
+    "pub_year": "2005",
+    "fileSize": "15.3 MB"
+  },
+  {
+    "title": "Visual C++ and MFC Programming 2nd Edition",
+    "author": "Jacques E. Zoo",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "6092219",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/bfa/bfa1ea16d7fa66aec1e8a18d2e820123-s.jpg",
+    "dataLoc": "72",
+    "pageCount": "739 Pages",
+    "pub_year": "2004",
+    "fileSize": "9.53 MB"
+  },
+  {
+    "title": "Neuro Linguistic Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "17346631",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/355/355c56843ac76974aa097c3fcb65fd7f-s.jpg",
+    "dataLoc": "73",
+    "pageCount": "420 Pages",
+    "pub_year": "2012",
+    "fileSize": "4.29 MB"
+  },
+  {
+    "title": "SEO: Search Engine Optimization Bible",
+    "author": "",
+    "tags": [
+      "Business & Career",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18894055",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/0d7/0d75bc3e04b488e52312a24126ea56a2-s.jpg",
+    "dataLoc": "78",
+    "pageCount": "411 Pages",
+    "pub_year": "2008",
+    "fileSize": "10.6 MB"
+  },
+  {
+    "title": "Hardware Hacking - Nicolas Collins",
+    "author": "",
+    "tags": [
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "649362",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/1af/1af81ee4c4335157d2fb7eed12ff5f34-s.jpg",
+    "dataLoc": "75",
+    "pageCount": "128 Pages",
+    "pub_year": "2009",
+    "fileSize": "3.63 MB"
+  },
+  {
+    "title": "The Internet For Dummies, 12th Edition",
+    "author": "Levine, John R.",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "34507376",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b5c/b5c49757555d72ae1653a97834b08e65-s.jpg",
+    "dataLoc": "74",
+    "pageCount": "435 Pages",
+    "pub_year": "2009",
+    "fileSize": "12.2 MB"
+  },
+  {
+    "title": "Cloud Security: A Comprehensive Guide to Secure Cloud Computing",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "16098716",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ae4/ae4ee33a468b3cdb82f5465139e1699b-s.jpg",
+    "dataLoc": "68",
+    "pageCount": "388 Pages",
+    "pub_year": "2010",
+    "fileSize": "5.44 MB"
+  },
+  {
+    "title": "Object Oriented Programming using C#",
+    "author": "Simon Kendal",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "1422735",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3b9/3b9f633827afaa5c1a4395b675ba8d1a-s.jpg",
+    "dataLoc": "70",
+    "pageCount": "254 Pages",
+    "pub_year": "2011",
+    "fileSize": "8.97 MB"
+  },
+  {
+    "title": "Web Development with jQuery",
+    "author": "Richard York",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "33478380",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/92b/92b6e9e3906c6e6c4ecc69b963480148-s.jpg",
+    "dataLoc": "76",
+    "pageCount": "674 Pages",
+    "pub_year": "2015",
+    "fileSize": "31.15 MB"
+  },
+  {
+    "title": "MySQL for the Internet of Things",
+    "author": "Charles Bell",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "27102219",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/602/6026ac444406b14448219dbc43f4c649-s.jpg",
+    "dataLoc": "69",
+    "pageCount": "329 Pages",
+    "pub_year": "2016",
+    "fileSize": "9.69 MB"
+  },
+  {
+    "title": "Java Tutorial",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "19074086",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/726/726f7ad58b27dd2f890e55279f5d8efb-s.jpg",
+    "dataLoc": "63",
+    "pageCount": "317 Pages",
+    "pub_year": "2014",
+    "fileSize": "2.98 MB"
+  },
+  {
+    "title": "Auto Repair For Dummies.pdf",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "34602207",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/5ab/5ab705974fd60720a1e555858060749c-s.jpg",
+    "dataLoc": "65",
+    "pageCount": "600 Pages",
+    "pub_year": "2004",
+    "fileSize": "45.42 MB"
+  },
+  {
+    "title": "Introduction to Website Design and Development",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "1673938",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/0a2/0a2e8020396b110143f92772dc3d71d9-s.jpg",
+    "dataLoc": "79",
+    "pageCount": "322 Pages",
+    "pub_year": "2013",
+    "fileSize": "8.74 MB"
+  },
+  {
+    "title": "Game Engine Architecture",
+    "author": "Jason Gregory",
+    "tags": [
+      "Engineering",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "6222671",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e05/e058dea0fa313848d2d5c8fa28d155e6-s.jpg",
+    "dataLoc": "62",
+    "pageCount": "853 Pages",
+    "pub_year": "2009",
+    "fileSize": "11.96 MB"
+  },
+  {
+    "title": "The Linux Programming Interface",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "18763503",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/8b0/8b04fedd9907e155d6449d0630efbb2c-s.jpg",
+    "dataLoc": "64",
+    "pageCount": "1,556 Pages",
+    "pub_year": "2011",
+    "fileSize": "7.39 MB"
+  },
+  {
+    "title": "R Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "6811118",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f62/f62c4c65f02815495c98b19c128ac170-s.jpg",
+    "dataLoc": "61",
+    "pageCount": "327 Pages",
+    "pub_year": "2009",
+    "fileSize": "1.18 MB"
+  },
+  {
+    "title": "Fiber-Optic Communication Systems",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "29302044",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/06f/06fbb07adb4c61922ed210d6124a1515-s.jpg",
+    "dataLoc": "71",
+    "pageCount": "567 Pages",
+    "pub_year": "2007",
+    "fileSize": "5.77 MB"
+  },
+  {
+    "title": "Transmission",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "20490025",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/593/59393e53cd979a133d6722e0503e03ca-s.jpg",
+    "dataLoc": "66",
+    "pageCount": "346 Pages",
+    "pub_year": "2004",
+    "fileSize": "12.12 MB"
+  },
+  {
+    "title": "Painting Techniques",
+    "author": "",
+    "tags": [
+      "Craft & Hobbies",
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "21124689",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b93/b93f58c03c6686a059d5462cc6c7e4d7-s.jpg",
+    "dataLoc": "67",
+    "pageCount": "24 Pages",
+    "pub_year": "2006",
+    "fileSize": "1.3 MB"
+  },
+  {
+    "title": "Swift Tutorial - Tutorialspoint",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "18465055",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b8c/b8ca8fc9f68b14b525915d90540a50d9-s.jpg",
+    "dataLoc": "98",
+    "pageCount": "244 Pages",
+    "pub_year": "2016",
+    "fileSize": "2.41 MB"
+  },
+  {
+    "title": "A Programmer’s Guide to the Mind",
+    "author": "Lorin Friesen",
+    "tags": [
+      "Most Popular",
+      "Health & Fitness",
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "9394340",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/762/762def0b037b91eb7dcd355fe67fb079-s.jpg",
+    "dataLoc": "97",
+    "pageCount": "372 Pages",
+    "pub_year": "2010",
+    "fileSize": "4.41 MB"
+  },
+  {
+    "title": "Excel for Marketing Managers",
+    "author": "",
+    "tags": [
+      "Marketing",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "19459764",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f5f/f5f03817617cd51b4650d7d709b32915-s.jpg",
+    "dataLoc": "87",
+    "pageCount": "258 Pages",
+    "pub_year": "2007",
+    "fileSize": "7.23 MB"
+  },
+  {
+    "title": "Microsoft Access 2010 Bible",
+    "author": "Groh, Michael",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18729603",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f34/f343bf566816f14771f927cd6fac5448-s.jpg",
+    "dataLoc": "92",
+    "pageCount": "1,395 Pages",
+    "pub_year": "2012",
+    "fileSize": "32.74 MB"
+  },
+  {
+    "title": "Sexuality and the internet",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "7751922",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/100/100cc2690f43da32c7af320a4393c77d-s.jpg",
+    "dataLoc": "100",
+    "pageCount": "282 Pages",
+    "pub_year": "2013",
+    "fileSize": "4.71 MB"
+  },
+  {
+    "title": "Beginning AngularJS",
+    "author": "",
+    "tags": [
+      "Programming",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "26601368",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/965/96533c789ae7fb83f78d9363f3225640-s.jpg",
+    "dataLoc": "84",
+    "pageCount": "191 Pages",
+    "pub_year": "2014",
+    "fileSize": "2.69 MB"
+  },
+  {
+    "title": "iOS App Reverse Engineering",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "28615547",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b06/b061211b5277b4bd3a9bfd936733f2cf-s.jpg",
+    "dataLoc": "95",
+    "pageCount": "442 Pages",
+    "pub_year": "2015",
+    "fileSize": "16.41 MB"
+  },
+  {
+    "title": "Web Animation using JavaScript",
+    "author": "Julian Shapiro",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "24403844",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ee0/ee076a025cad129e31d8b0fac2bb46f0-s.jpg",
+    "dataLoc": "91",
+    "pageCount": "402 Pages",
+    "pub_year": "2015",
+    "fileSize": "5.38 MB"
+  },
+  {
+    "title": "Engine control system",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "34405204",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/57b/57baf3f70cada21eb4cd0cee3ec49a69-s.jpg",
+    "dataLoc": "94",
+    "pageCount": "419 Pages",
+    "pub_year": "2007",
+    "fileSize": "13.87 MB"
+  },
+  {
+    "title": "C Programming for microcontrollers",
+    "author": "Joe Pardue",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "15006808",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ab0/ab0a6f82570e76b6a9aa7c61c895ea17-s.jpg",
+    "dataLoc": "99",
+    "pageCount": "300 Pages",
+    "pub_year": "2005",
+    "fileSize": "4.34 MB"
+  },
+  {
+    "title": "Create mobile apps with HTML5, JavaScript and Visual Studio",
+    "author": "",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "9400753",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/623/623be6f3088ee7441102ed78c00b839c-s.jpg",
+    "dataLoc": "83",
+    "pageCount": "112 Pages",
+    "pub_year": "2014",
+    "fileSize": "21.22 MB"
+  },
+  {
+    "title": "Hardware Manual",
+    "author": "",
+    "tags": [
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "34460104",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e8b/e8bd609be498e5b4f12c26618c26cdc2-s.jpg",
+    "dataLoc": "93",
+    "pageCount": "285 Pages",
+    "pub_year": "2008",
+    "fileSize": "10.59 MB"
+  },
+  {
+    "title": "Social Media Mining",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "30219844",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/dd1/dd1af3c75a3101be741327817d94b673-s.jpg",
+    "dataLoc": "82",
+    "pageCount": "338 Pages",
+    "pub_year": "2014",
+    "fileSize": "4.99 MB"
+  },
+  {
+    "title": "The Art of R Programming",
+    "author": "Norman Matloff",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "15013477",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/751/751325ea712e2dc9e81a56ba0b8867e2-s.jpg",
+    "dataLoc": "85",
+    "pageCount": "404 Pages",
+    "pub_year": "2011",
+    "fileSize": "4.51 MB"
+  },
+  {
+    "title": "Simulink Control Design™ - MathWorks",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "4696598",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/053/053280d2d1d2417a3afb5f8ee5d4ea98-s.jpg",
+    "dataLoc": "90",
+    "pageCount": "1,420 Pages",
+    "pub_year": "2016",
+    "fileSize": "14.8 MB"
+  },
+  {
+    "title": "Automotive Engineering International - SAE",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "5948631",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/348/3482d8023d4f2bed505b2608305ee3ff-s.jpg",
+    "dataLoc": "96",
+    "pageCount": "84 Pages",
+    "pub_year": "2008",
+    "fileSize": "8.56 MB"
+  },
+  {
+    "title": "Ruby on Rails™ Tutorial",
+    "author": "Michael Hartl",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "14979185",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/866/866461da343528c043d6ae762b86fc32-s.jpg",
+    "dataLoc": "88",
+    "pageCount": "589 Pages",
+    "pub_year": "2012",
+    "fileSize": "12.95 MB"
+  },
+  {
+    "title": "Automotive & Trucking",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "33527554",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/930/930eabdf0b610368a9661497573dee33-s.jpg",
+    "dataLoc": "86",
+    "pageCount": "260 Pages",
+    "pub_year": "2015",
+    "fileSize": "36.88 MB"
+  },
+  {
+    "title": "Understanding Automotive Electronics",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "18908317",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c10/c106985cfa3c91bfb9f1e915688f28a4-s.jpg",
+    "dataLoc": "81",
+    "pageCount": "446 Pages",
+    "pub_year": "2001",
+    "fileSize": "16.85 MB"
+  },
+  {
+    "title": "Classic & Sports Car",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "38210205",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b7a/b7a9f9a08d6bc35d17bc256d6eece9ac-s.jpg",
+    "dataLoc": "89",
+    "pageCount": "276 Pages",
+    "pub_year": "2015",
+    "fileSize": "35.27 MB"
+  },
+  {
+    "title": "Internet Traffic Engineering",
+    "author": "Gunhild Luke",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "234887",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/790/790ecf6bf3b4ca18e67f3faa8ef6ab89-s.jpg",
+    "dataLoc": "113",
+    "pageCount": "362 Pages",
+    "pub_year": "2005",
+    "fileSize": "6.06 MB"
+  },
+  {
+    "title": "Excel 2010 Bible",
+    "author": "John Walkenbach",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18837190",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/05f/05f268425df9bc5ba4d5c9c45cf7fac1-s.jpg",
+    "dataLoc": "115",
+    "pageCount": "1,053 Pages",
+    "pub_year": "2012",
+    "fileSize": "10.68 MB"
+  },
+  {
+    "title": "jQuery For Dummies",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "18725346",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/a64/a6468fdb72882be5dab90e2d7d2bda09-s.jpg",
+    "dataLoc": "118",
+    "pageCount": "364 Pages",
+    "pub_year": "2012",
+    "fileSize": "14.31 MB"
+  },
+  {
+    "title": "Simulink Tutorial",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "7575497",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/1de/1deeeffe9d4787d41875a23e464104e0-s.jpg",
+    "dataLoc": "112",
+    "pageCount": "605 Pages",
+    "pub_year": "1998",
+    "fileSize": "3.76 MB"
+  },
+  {
+    "title": "Internet Communications Using SIP",
+    "author": "Henry Sinnreich",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "33583446",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b9a/b9a3c9fc6f2d298aa3b013218a17d0e2-s.jpg",
+    "dataLoc": "116",
+    "pageCount": "409 Pages",
+    "pub_year": "2006",
+    "fileSize": "11.15 MB"
+  },
+  {
+    "title": "Programming Microsoft Windows with C",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "9640961",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f12/f12df5a442dc3787cb62a3f5662e66b8-s.jpg",
+    "dataLoc": "120",
+    "pageCount": "1,073 Pages",
+    "pub_year": "2002",
+    "fileSize": "8.91 MB"
+  },
+  {
+    "title": "motor cars",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "24952466",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f83/f836c60e25ce1426edb802f8c53f7b55-s.jpg",
+    "dataLoc": "119",
+    "pageCount": "352 Pages",
+    "pub_year": "2014",
+    "fileSize": "34.39 MB"
+  },
+  {
+    "title": "Training Guide: Programming in HTML5 with JavaScript and CSS3 ",
+    "author": "Glenn Johnson",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "5778394",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/0b0/0b09185728820217044eea8a1c8b46d9-s.jpg",
+    "dataLoc": "109",
+    "pageCount": "681 Pages",
+    "pub_year": "2013",
+    "fileSize": "13.97 MB"
+  },
+  {
+    "title": "manual-de-car-audio",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "39390630",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/43e/43e10f17aa43c367192f2d804006e46a-s.jpg",
+    "dataLoc": "111",
+    "pageCount": "152 Pages",
+    "pub_year": "2009",
+    "fileSize": "12.17 MB"
+  },
+  {
+    "title": "Beginning Programming for Dummies 3rd",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "835543",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/bef/bef59d37f4592e9f5f76459f84992675-s.jpg",
+    "dataLoc": "107",
+    "pageCount": "433 Pages",
+    "pub_year": "2004",
+    "fileSize": "7.68 MB"
+  },
+  {
+    "title": "Hardware Catalog",
+    "author": "",
+    "tags": [
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "23868639",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/7e2/7e20b25e4765d4192eb4e6ea4b501264-s.jpg",
+    "dataLoc": "105",
+    "pageCount": "228 Pages",
+    "pub_year": "2016",
+    "fileSize": "15.51 MB"
+  },
+  {
+    "title": "Digital Video For Dummies 3rd Edition",
+    "author": "Keith Underdahl",
+    "tags": [
+      "Art",
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "8845119",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d95/d95cd57b2c77b94c18fd1d0ae664e306-s.jpg",
+    "dataLoc": "102",
+    "pageCount": "409 Pages",
+    "pub_year": "2004",
+    "fileSize": "12.02 MB"
+  },
+  {
+    "title": "Serial Port Complete - Latest Microcontroller projects ",
+    "author": "",
+    "tags": [
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "5657677",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/952/952670cc38979519c8850b4101d27455-s.jpg",
+    "dataLoc": "108",
+    "pageCount": "400 Pages",
+    "pub_year": "2008",
+    "fileSize": "4.03 MB"
+  },
+  {
+    "title": "A Complete Guide to Web Design",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "3448040",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d04/d0419918c8e6b44fcbaf69eeffccea1a-s.jpg",
+    "dataLoc": "106",
+    "pageCount": "594 Pages",
+    "pub_year": "2008",
+    "fileSize": "7.54 MB"
+  },
+  {
+    "title": "Tutorials: Animation - Autodesk | 3ds Max Design, Engineering",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "531584",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/144/14481f894492ff32454eb4b2162e15ad-s.jpg",
+    "dataLoc": "117",
+    "pageCount": "192 Pages",
+    "pub_year": "2009",
+    "fileSize": "9.59 MB"
+  },
+  {
+    "title": "Abusing the Internet of Things",
+    "author": "Nitesh Dhanjani",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "38115841",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/2c3/2c312e0921aab39fab1cb43fe2247539-s.jpg",
+    "dataLoc": "104",
+    "pageCount": "291 Pages",
+    "pub_year": "2015",
+    "fileSize": "41.57 MB"
+  },
+  {
+    "title": "Web Design for Dummies 2nd Edition",
+    "author": "System Administrator",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "20359604",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/1e3/1e31324b4571de5aa08c1397252d8222-s.jpg",
+    "dataLoc": "103",
+    "pageCount": "339 Pages",
+    "pub_year": "2006",
+    "fileSize": "44.76 MB"
+  },
+  {
+    "title": "WordPress Web Design For Dummies",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "32909819",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/fec/fecf6132d6b20922a7e391459fe80a29-s.jpg",
+    "dataLoc": "114",
+    "pageCount": "387 Pages",
+    "pub_year": "2013",
+    "fileSize": "34.48 MB"
+  },
+  {
+    "title": "HTML5 and CSS3 2nd Edition: Level Up with Today’s Web Technologies",
+    "author": "Brian P. Hogan",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "12105659",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/669/66926adbfcebbb8919e14a913c2d2e7c-s.jpg",
+    "dataLoc": "101",
+    "pageCount": "303 Pages",
+    "pub_year": "2013",
+    "fileSize": "9.53 MB"
+  },
+  {
+    "title": "The Hardware Book",
+    "author": "Joakim Ögren",
+    "tags": [
+      "Hardware"
+    ],
+    "language": "",
+    "dataId": "11686955",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b60/b60be0c5d0a4b3b459056bd111dc72d3-s.jpg",
+    "dataLoc": "110",
+    "pageCount": "441 Pages",
+    "pub_year": "1997",
+    "fileSize": "4.63 MB"
+  },
+  {
+    "title": "Mastering Nginx",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "39566723",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/df8/df8c0bed542d63027937585f059e0c2c-s.jpg",
+    "dataLoc": "132",
+    "pageCount": "322 Pages",
+    "pub_year": "2013",
+    "fileSize": "18.14 MB"
+  },
+  {
+    "title": "Automotive Training",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "34463428",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d8f/d8f963b57185d6abc3f361e15940be7f-s.jpg",
+    "dataLoc": "121",
+    "pageCount": "23 Pages",
+    "pub_year": "2016",
+    "fileSize": "3.65 MB"
+  },
+  {
+    "title": "Flow Simulation 2011 Tutorial",
+    "author": "Mentor Graphics",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "14345039",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/588/5888cedbbbb0c375c1484168da37e9d4-s.jpg",
+    "dataLoc": "138",
+    "pageCount": "290 Pages",
+    "pub_year": "2010",
+    "fileSize": "7.54 MB"
+  },
+  {
+    "title": "Internet Marketing Strategy Workshop",
+    "author": "",
+    "tags": [
+      "Internet",
+      "Marketing"
+    ],
+    "language": "",
+    "dataId": "2553855",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/b35/b3551293942a35412cc663b7053e1680-s.jpg",
+    "dataLoc": "131",
+    "pageCount": "213 Pages",
+    "pub_year": "2012",
+    "fileSize": "8.92 MB"
+  },
+  {
+    "title": "Language and the Internet",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "6566525",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/636/63610d795e38b08a45eb292951edf08f-s.jpg",
+    "dataLoc": "136",
+    "pageCount": "284 Pages",
+    "pub_year": "2004",
+    "fileSize": "1.08 MB"
+  },
+  {
+    "title": "Google Web Toolkit Tutorial",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "248162",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e2e/e2e121ad8d8b952003eacc39cf6bcbe3-s.jpg",
+    "dataLoc": "135",
+    "pageCount": "506 Pages",
+    "pub_year": "2015",
+    "fileSize": "5.47 MB"
+  },
+  {
+    "title": "Web Design",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "20724652",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/2b9/2b937eefe61cacb69726433db004b621-s.jpg",
+    "dataLoc": "134",
+    "pageCount": "371 Pages",
+    "pub_year": "2012",
+    "fileSize": "46.73 MB"
+  },
+  {
+    "title": "Analysis of Algorithms : An Active Learning Approach",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "6654084",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/315/3157ab953e657310413b1d965b8db851-s.jpg",
+    "dataLoc": "140",
+    "pageCount": "315 Pages",
+    "pub_year": "2007",
+    "fileSize": "1.61 MB"
+  },
+  {
+    "title": "What is Internet Marketing?",
+    "author": "Alex Mould",
+    "tags": [
+      "Internet",
+      "Marketing"
+    ],
+    "language": "",
+    "dataId": "9873774",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/1f1/1f159788606d7bf2348e83e517644121-s.jpg",
+    "dataLoc": "123",
+    "pageCount": "579 Pages",
+    "pub_year": "2006",
+    "fileSize": "8.34 MB"
+  },
+  {
+    "title": "Mastering Web Application",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "9315928",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f66/f66f4625a91cf5ae4c9e476998f51d90-s.jpg",
+    "dataLoc": "133",
+    "pageCount": "372 Pages",
+    "pub_year": "2013",
+    "fileSize": "2.9 MB"
+  },
+  {
+    "title": "Using Games to Learn HTML5 and JavaScript",
+    "author": "Jeanine Meyer",
+    "tags": [
+      "Technology",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "4311826",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/bd3/bd3134d2574173c13e77fbfd113f7f30-s.jpg",
+    "dataLoc": "137",
+    "pageCount": "375 Pages",
+    "pub_year": "2010",
+    "fileSize": "9.87 MB"
+  },
+  {
+    "title": "MODEL SOLAR CAR DESIGN GUIDE",
+    "author": "Steve Perry",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "1471056",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/617/617353788b04166a147c10b4b6be6c44-s.jpg",
+    "dataLoc": "130",
+    "pageCount": "176 Pages",
+    "pub_year": "2012",
+    "fileSize": "3.39 MB"
+  },
+  {
+    "title": "THE Java™ Programming Language, Fourth Edition",
+    "author": "",
+    "tags": [
+      "Programming",
+      "Academic & Education"
+    ],
+    "language": "",
+    "dataId": "20661619",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e7e/e7e7c1eb0708bab023a24401aa4020f4-s.jpg",
+    "dataLoc": "128",
+    "pageCount": "642 Pages",
+    "pub_year": "2009",
+    "fileSize": "2.04 MB"
+  },
+  {
+    "title": "VHDL Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "12798328",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/774/774a70a88bf62cc224009a070a5a5265-s.jpg",
+    "dataLoc": "129",
+    "pageCount": "497 Pages",
+    "pub_year": "1999",
+    "fileSize": "2.3 MB"
+  },
+  {
+    "title": "Creating the Future of Automobiles",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "33754204",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/0fc/0fc9d65413c41c4fd78b47cfb1d5d33f-s.jpg",
+    "dataLoc": "126",
+    "pageCount": "88 Pages",
+    "pub_year": "2015",
+    "fileSize": "9.42 MB"
+  },
+  {
+    "title": "Expert Spring MVC and Web Flow",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "31355298",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3d4/3d48b6f024a6fab8870e94c6282bb6dc-s.jpg",
+    "dataLoc": "124",
+    "pageCount": "423 Pages",
+    "pub_year": "2006",
+    "fileSize": "4.91 MB"
+  },
+  {
+    "title": "Wireless Home Networking For Dummies",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "7350681",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/56e/56e70b4d045c9e0259a61d7fbe64da65-s.jpg",
+    "dataLoc": "125",
+    "pageCount": "406 Pages",
+    "pub_year": "2008",
+    "fileSize": "9.87 MB"
+  },
+  {
+    "title": "Car Buying Tips Guide 1",
+    "author": "Isaac Bouchard",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "32240034",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/649/649dd605dec6f0f11402301b21f6a380-s.jpg",
+    "dataLoc": "127",
+    "pageCount": "192 Pages",
+    "pub_year": "2011",
+    "fileSize": "1.25 MB"
+  },
+  {
+    "title": "MATLAB Object-Oriented Programming",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "3383441",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/64f/64f5badb1ef804de92ad507d221a5f7d-s.jpg",
+    "dataLoc": "139",
+    "pageCount": "818 Pages",
+    "pub_year": "2016",
+    "fileSize": "4.2 MB"
+  },
+  {
+    "title": "Android Tutorial",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "20508048",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3aa/3aa1f3d26485ba62c7ae442c9c7fc4e9-s.jpg",
+    "dataLoc": "122",
+    "pageCount": "465 Pages",
+    "pub_year": "2011",
+    "fileSize": "4.63 MB"
+  },
+  {
+    "title": "MATLAB® Recipes for Earth Sciences",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "29533603",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f1a/f1a971e87f8a3522e9af558cd8a42121-s.jpg",
+    "dataLoc": "157",
+    "pageCount": "436 Pages",
+    "pub_year": "2015",
+    "fileSize": "21.73 MB"
+  },
+  {
+    "title": "Cloud Computing: Technologies and Strategies of the Ubiquitous ",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "362840",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/4b5/4b5a79444543989b3c02371524997c25-s.jpg",
+    "dataLoc": "160",
+    "pageCount": "275 Pages",
+    "pub_year": "2012",
+    "fileSize": "1.86 MB"
+  },
+  {
+    "title": "Java 7 for Absolute Beginners",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "32937967",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e43/e43976a0832a2ac00d5439cceb8ff0db-s.jpg",
+    "dataLoc": "159",
+    "pageCount": "311 Pages",
+    "pub_year": "2012",
+    "fileSize": "3.64 MB"
+  },
+  {
+    "title": "Web Designer’s Guide to WordPress",
+    "author": "Jesse Friedman",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "4604361",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/8c8/8c81823e377cf3d57a09aaca73d4ec1d-s.jpg",
+    "dataLoc": "154",
+    "pageCount": "42 Pages",
+    "pub_year": "2012",
+    "fileSize": "661 KB"
+  },
+  {
+    "title": "SolidWorks 2010 Bible",
+    "author": "Matt Lombard",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "19824575",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c74/c7469e3f8807bcc6694f11961ef3eccd-s.jpg",
+    "dataLoc": "156",
+    "pageCount": "1,179 Pages",
+    "pub_year": "2010",
+    "fileSize": "30.49 MB"
+  },
+  {
+    "title": "C++ Timesaving Techniques For Dummies",
+    "author": "Matthew Telles",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "19361631",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/086/086e771cd0933c8970a57e8aa2e90a3c-s.jpg",
+    "dataLoc": "146",
+    "pageCount": "507 Pages",
+    "pub_year": "2005",
+    "fileSize": "7.96 MB"
+  },
+  {
+    "title": "Language and the Internet",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "33416743",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3e7/3e7613e45968d5270746a495e293f52a-s.jpg",
+    "dataLoc": "158",
+    "pageCount": "284 Pages",
+    "pub_year": "2004",
+    "fileSize": "1.08 MB"
+  },
+  {
+    "title": "Oracle Database Programming Using",
+    "author": "Mensah, Kaussi.",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "1215332",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c83/c83f002756aa938fbb73b6135b1c0e0a-s.jpg",
+    "dataLoc": "152",
+    "pageCount": "1,121 Pages",
+    "pub_year": "2007",
+    "fileSize": "4.78 MB"
+  },
+  {
+    "title": "Advanced Copyright Issues on the Internet",
+    "author": "David L. Hayes",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "20056812",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e6b/e6b481f0d786de6f146bb126f67d8bfd-s.jpg",
+    "dataLoc": "142",
+    "pageCount": "760 Pages",
+    "pub_year": "2015",
+    "fileSize": "2.37 MB"
+  },
+  {
+    "title": "Upgrading & Fixing Laptops DUMmIES",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "19411964",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/140/14021f9d0aa63a2a92d48f776d01bb8a-s.jpg",
+    "dataLoc": "155",
+    "pageCount": "362 Pages",
+    "pub_year": "2005",
+    "fileSize": "4.69 MB"
+  },
+  {
+    "title": "Automotive Products Catalog",
+    "author": "Diane Stevens",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "22570888",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/95f/95fd76dbf6bd5f572782137f25f2525c-s.jpg",
+    "dataLoc": "151",
+    "pageCount": "372 Pages",
+    "pub_year": "2016",
+    "fileSize": "10.75 MB"
+  },
+  {
+    "title": "Hacking Secret Ciphers with Python",
+    "author": "Al Sweigart",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "648963",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/004/004f1f97ed571af7428f4f12f826cd95-s.jpg",
+    "dataLoc": "150",
+    "pageCount": "442 Pages",
+    "pub_year": "2015",
+    "fileSize": "3.73 MB"
+  },
+  {
+    "title": "American Car Magazine November 2015",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "27377500",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/a89/a8985a5bab4dfd32639aeb12cee5fc91-s.jpg",
+    "dataLoc": "149",
+    "pageCount": "116 Pages",
+    "pub_year": "2015",
+    "fileSize": "27.31 MB"
+  },
+  {
+    "title": "Excel VBA Programming For Dummies",
+    "author": "John Walkenbach",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "18770992",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/8f3/8f3120c86118bab19661ccc8a831dbd3-s.jpg",
+    "dataLoc": "145",
+    "pageCount": "425 Pages",
+    "pub_year": "2004",
+    "fileSize": "6.18 MB"
+  },
+  {
+    "title": "Java Programming Language Handbook",
+    "author": "",
+    "tags": [
+      "Programming",
+      "Academic & Education"
+    ],
+    "language": "",
+    "dataId": "9688428",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/967/967c8f7f5566b3f9aae09843ae598d32-s.jpg",
+    "dataLoc": "147",
+    "pageCount": "143 Pages",
+    "pub_year": "1997",
+    "fileSize": "2.86 MB"
+  },
+  {
+    "title": "Programming and Graphics",
+    "author": "",
+    "tags": [
+      "Programming"
+    ],
+    "language": "",
+    "dataId": "4140527",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/663/663a4c3ae748a80db85f4dea743fc3d5-s.jpg",
+    "dataLoc": "144",
+    "pageCount": "383 Pages",
+    "pub_year": "2007",
+    "fileSize": "3.62 MB"
+  },
+  {
+    "title": "Using the Internet Safely For Seniors",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "22134977",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/02b/02b5167195b69da4e865477d088e02b6-s.jpg",
+    "dataLoc": "153",
+    "pageCount": "387 Pages",
+    "pub_year": "2009",
+    "fileSize": "15.6 MB"
+  },
+  {
+    "title": "UnrealScript Game Programming Cookbook",
+    "author": "",
+    "tags": [
+      "Programming",
+      "Craft & Hobbies"
+    ],
+    "language": "",
+    "dataId": "16133846",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/77e/77ef9430d4fdb6a3f7eb070fcaf806e6-s.jpg",
+    "dataLoc": "148",
+    "pageCount": "272 Pages",
+    "pub_year": "2013",
+    "fileSize": "5.99 MB"
+  },
+  {
+    "title": "3ds Max 10 Online Character Animation Tutorials",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "870726",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/dd0/dd0040d9fa7a6fad7ea1469688e055c1-s.jpg",
+    "dataLoc": "141",
+    "pageCount": "393 Pages",
+    "pub_year": "2009",
+    "fileSize": "10.05 MB"
+  },
+  {
+    "title": "CAR and Driver - March 2017",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "38469929",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/265/26593b358ff37ad5102ac5986c145012-s.jpg",
+    "dataLoc": "143",
+    "pageCount": "104 Pages",
+    "pub_year": "2017",
+    "fileSize": "27.6 MB"
+  },
+  {
+    "title": "Beginner's Programming Tutorial in QBasic",
+    "author": "Stephen Stone",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "15005751",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/01d/01dd3437ccaad4ac7c60e26f4a143612-s.jpg",
+    "dataLoc": "170",
+    "pageCount": "57 Pages",
+    "pub_year": "2001",
+    "fileSize": "314 KB"
+  },
+  {
+    "title": "Matlab - The Language of Technical Computing",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "10720132",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/351/351a00904a9317acdf41d841dff53d40-s.jpg",
+    "dataLoc": "178",
+    "pageCount": "349 Pages",
+    "pub_year": "2005",
+    "fileSize": "3.17 MB"
+  },
+  {
+    "title": "New Perspectives On Web Design",
+    "author": "",
+    "tags": [
+      "Web Design"
+    ],
+    "language": "",
+    "dataId": "12176767",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/2c9/2c9ab90a214a862d47cb44eb378272d2-s.jpg",
+    "dataLoc": "179",
+    "pageCount": "496 Pages",
+    "pub_year": "2013",
+    "fileSize": "10.46 MB"
+  },
+  {
+    "title": "HTML5 Guidelines for Web Developers",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "19456817",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/653/653d08c8d0c4a57da6df0d6ff37a4f8d-s.jpg",
+    "dataLoc": "169",
+    "pageCount": "322 Pages",
+    "pub_year": "2013",
+    "fileSize": "7.24 MB"
+  },
+  {
+    "title": "Computer Programming class....click here to view the book we are following in PDF form. Be",
+    "author": "Michael Halvorson",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "19810823",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f42/f4231f1745d9c6104bd02ef52c98f36c-s.jpg",
+    "dataLoc": "174",
+    "pageCount": "576 Pages",
+    "pub_year": "2010",
+    "fileSize": "17.95 MB"
+  },
+  {
+    "title": "Collectors' Motor Cars and Automobilia",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "25718870",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/830/830a06794034647858c50cafccd70a1b-s.jpg",
+    "dataLoc": "175",
+    "pageCount": "262 Pages",
+    "pub_year": "2016",
+    "fileSize": "22.01 MB"
+  },
+  {
+    "title": "Frontend Frameworks",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "34530797",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c62/c628102db36308f938c307f8dc0ad94a-s.jpg",
+    "dataLoc": "173",
+    "pageCount": "107 Pages",
+    "pub_year": "2012",
+    "fileSize": "3.94 MB"
+  },
+  {
+    "title": "Wireless Home Networking For Dummies",
+    "author": "",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "16126619",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/743/7433a77e02841dd0cd1e57cbcaa53a72-s.jpg",
+    "dataLoc": "177",
+    "pageCount": "406 Pages",
+    "pub_year": "2008",
+    "fileSize": "9.87 MB"
+  },
+  {
+    "title": "2016 Motorcycles Harley Davidson",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "25515462",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/11f/11f6ed66bb9b244cd9dd25bb855f26e6-s.jpg",
+    "dataLoc": "171",
+    "pageCount": "80 Pages",
+    "pub_year": "2015",
+    "fileSize": "18.17 MB"
+  },
+  {
+    "title": "Hacking For Dummies, 3rd Edition",
+    "author": "Beaver, Kevin",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "4920246",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/669/66936d810fa5f75bb3aed52a44f1f9de-s.jpg",
+    "dataLoc": "167",
+    "pageCount": "411 Pages",
+    "pub_year": "2009",
+    "fileSize": "8.51 MB"
+  },
+  {
+    "title": "Car Hacking",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "33561194",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/96c/96ceeb936a565111a1809ed4d859ea90-s.jpg",
+    "dataLoc": "163",
+    "pageCount": "19 Pages",
+    "pub_year": "2015",
+    "fileSize": "1.15 MB"
+  },
+  {
+    "title": "Art of the Classic Car",
+    "author": "Peter Harholdt",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "38495704",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d46/d4602e1a6c027863ea933c190dd61f94-s.jpg",
+    "dataLoc": "180",
+    "pageCount": "226 Pages",
+    "pub_year": "2013",
+    "fileSize": "28.82 MB"
+  },
+  {
+    "title": "The Social Media Evolution",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "20174987",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/20a/20a92895f1530e8c8c743ea3a14d0abb-s.jpg",
+    "dataLoc": "164",
+    "pageCount": "343 Pages",
+    "pub_year": "2014",
+    "fileSize": "34.58 MB"
+  },
+  {
+    "title": "Google Earth for Dummies",
+    "author": "Crowder, David A.",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "20432984",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/2fc/2fce622244b38522c1a09c36be521e28-s.jpg",
+    "dataLoc": "162",
+    "pageCount": "363 Pages",
+    "pub_year": "2012",
+    "fileSize": "13.15 MB"
+  },
+  {
+    "title": "Car Catalog",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "21009146",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e89/e89d4983838d24380096706860677646-s.jpg",
+    "dataLoc": "161",
+    "pageCount": "176 Pages",
+    "pub_year": "2013",
+    "fileSize": "14.87 MB"
+  },
+  {
+    "title": "Top Gear August 2015",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "26963817",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/52f/52f05651fa4781ba7eeb1b9498219869-s.jpg",
+    "dataLoc": "176",
+    "pageCount": "124 Pages",
+    "pub_year": "2015",
+    "fileSize": "26.13 MB"
+  },
+  {
+    "title": "Autodesk Revit Architecture 2014 Fundamentals - SDC Publications",
+    "author": "",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "9036643",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/232/23282cdd1f5be52a9f2024b5b4015bbd-s.jpg",
+    "dataLoc": "168",
+    "pageCount": "45 Pages",
+    "pub_year": "2013",
+    "fileSize": "1.6 MB"
+  },
+  {
+    "title": "Passenger Car & Light Truck Applications",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "19978838",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/3c8/3c88829cbe745c00e006fa1aad841ff2-s.jpg",
+    "dataLoc": "165",
+    "pageCount": "1,963 Pages",
+    "pub_year": "2016",
+    "fileSize": "8.79 MB"
+  },
+  {
+    "title": "Design Patterns Java™ Workbook",
+    "author": "Steven John Metsker",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "11502163",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/139/139b5483198df38d05af15c62d9d96fb-s.jpg",
+    "dataLoc": "172",
+    "pageCount": "400 Pages",
+    "pub_year": "2003",
+    "fileSize": "4.97 MB"
+  },
+  {
+    "title": "Automotive Quality Systems Handbook",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "7320918",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ff4/ff4ea86975cb9f986f118f1d11a4c6a3-s.jpg",
+    "dataLoc": "166",
+    "pageCount": "592 Pages",
+    "pub_year": "2004",
+    "fileSize": "2.81 MB"
+  },
+  {
+    "title": "Digital Identity and the Connected Car",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "31721600",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d76/d760450b7cb9dedde3449c267887df0d-s.jpg",
+    "dataLoc": "193",
+    "pageCount": "43 Pages",
+    "pub_year": "2016",
+    "fileSize": "2.71 MB"
+  },
+  {
+    "title": "Car Tuning Ferodo Racing",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "14222280",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/6f4/6f432133deabe4a420c128140cab3a60-s.jpg",
+    "dataLoc": "189",
+    "pageCount": "320 Pages",
+    "pub_year": "2016",
+    "fileSize": "21.71 MB"
+  },
+  {
+    "title": "SAP - TINET - Tarragona Internet",
+    "author": "",
+    "tags": [
+      "Internet"
+    ],
+    "language": "",
+    "dataId": "17769870",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/53b/53bc29e9dfa1fa6634ccc49bde7345bb-s.jpg",
+    "dataLoc": "194",
+    "pageCount": "362 Pages",
+    "pub_year": "2008",
+    "fileSize": "5 MB"
+  },
+  {
+    "title": "Play with Robot-Assemble The Car",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "32451089",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/f2f/f2f118b4e6c9bb8d133ce1c66598c2f8-s.jpg",
+    "dataLoc": "199",
+    "pageCount": "33 Pages",
+    "pub_year": "2016",
+    "fileSize": "4.19 MB"
+  },
+  {
+    "title": "Automobile",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "27994478",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/c8c/c8c3113116a0e456699f66672e57b7c4-s.jpg",
+    "dataLoc": "195",
+    "pageCount": "247 Pages",
+    "pub_year": "2012",
+    "fileSize": "1.43 MB"
+  },
+  {
+    "title": "Autodesk AutoCAD 2014",
+    "author": "",
+    "tags": [
+      "Software"
+    ],
+    "language": "",
+    "dataId": "8308526",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/473/47356345fb4e5f419c8dac4e76d33de7-s.jpg",
+    "dataLoc": "185",
+    "pageCount": "286 Pages",
+    "pub_year": "2013",
+    "fileSize": "1.03 MB"
+  },
+  {
+    "title": "Revit Architecture 2014 Basics - SDC Publications",
+    "author": "Karla W",
+    "tags": [
+      "Tutorials"
+    ],
+    "language": "",
+    "dataId": "9036650",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/303/3033b135aee183515f1e56867d35458a-s.jpg",
+    "dataLoc": "182",
+    "pageCount": "46 Pages",
+    "pub_year": "2013",
+    "fileSize": "2.47 MB"
+  },
+  {
+    "title": "Mash Motorcycles",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "38732035",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/068/0688a16bcb9ce8158c0967445c6decb3-s.jpg",
+    "dataLoc": "198",
+    "pageCount": "15 Pages",
+    "pub_year": "2014",
+    "fileSize": "9.89 MB"
+  },
+  {
+    "title": "The Evolution of the Connected Car",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "38340791",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/cff/cffc48340ed551ede2270b58001ce778-s.jpg",
+    "dataLoc": "196",
+    "pageCount": "24 Pages",
+    "pub_year": "2016",
+    "fileSize": "4.83 MB"
+  },
+  {
+    "title": "Car Advertising",
+    "author": "Vesa Sammalisto",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "33433602",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/323/323d1d4617fac110f739e3d057bc8f3c-s.jpg",
+    "dataLoc": "192",
+    "pageCount": "45 Pages",
+    "pub_year": "2014",
+    "fileSize": "3.94 MB"
+  },
+  {
+    "title": "Automotive 2025",
+    "author": "Ben Stanley",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "34314988",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/ffb/ffbc011e315f52620f5f01a2bd68ae7d-s.jpg",
+    "dataLoc": "184",
+    "pageCount": "24 Pages",
+    "pub_year": "2015",
+    "fileSize": "1.72 MB"
+  },
+  {
+    "title": "CAR - Modern Car Society",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "15301205",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/59a/59a099daa452905d9dd1955285228fd7-s.jpg",
+    "dataLoc": "200",
+    "pageCount": "27 Pages",
+    "pub_year": "2013",
+    "fileSize": "4.37 MB"
+  },
+  {
+    "title": "Advanced Automotive Technology: Visions of a Super-Efficient ",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "5726362",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/60b/60b60b3f7f47434074e26fc344441c9f-s.jpg",
+    "dataLoc": "187",
+    "pageCount": "314 Pages",
+    "pub_year": "1996",
+    "fileSize": "2.56 MB"
+  },
+  {
+    "title": "the bmw active hybrid 5 owners manual",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "19995815",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/8e3/8e31934ab14bafb80d00d1bd011b99d5-s.jpg",
+    "dataLoc": "191",
+    "pageCount": "224 Pages",
+    "pub_year": "2012",
+    "fileSize": "4.96 MB"
+  },
+  {
+    "title": "Industrial Heating",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "34857470",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/d97/d97631be18b4a0a80bd2136e4c31310a-s.jpg",
+    "dataLoc": "188",
+    "pageCount": "92 Pages",
+    "pub_year": "2015",
+    "fileSize": "13.34 MB"
+  },
+  {
+    "title": "High-performance Electric Motorcycles",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "38665368",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/516/516847dab74251568db1b1cda0b91c96-s.jpg",
+    "dataLoc": "186",
+    "pageCount": "21 Pages",
+    "pub_year": "2017",
+    "fileSize": "5.93 MB"
+  },
+  {
+    "title": "Automotive Division",
+    "author": "Atlanta Attachment Company",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "21601506",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/104/104255ef4fbbcbe1c1acb9180ac1486d-s.jpg",
+    "dataLoc": "197",
+    "pageCount": "58 Pages",
+    "pub_year": "2015",
+    "fileSize": "2.31 MB"
+  },
+  {
+    "title": "Foundation HTML5 With CSS",
+    "author": "Craig Cook",
+    "tags": [
+      "Technology"
+    ],
+    "language": "",
+    "dataId": "18730739",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/678/678651ad90a252e79f4c2866f8786728-s.jpg",
+    "dataLoc": "190",
+    "pageCount": "424 Pages",
+    "pub_year": "2012",
+    "fileSize": "11.3 MB"
+  },
+  {
+    "title": "AutoCAD LT 2011 - Autodesk | 3D Design, Engineering ",
+    "author": "",
+    "tags": [
+      "Engineering",
+      "Academic & Education",
+      "Software"
+    ],
+    "language": "",
+    "dataId": "318074",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/68d/68d1ff8075f95c21b9a469b65718c338-s.jpg",
+    "dataLoc": "181",
+    "pageCount": "376 Pages",
+    "pub_year": "2010",
+    "fileSize": "3.69 MB"
+  },
+  {
+    "title": "Automobile Engineering. - University of Calicut",
+    "author": "",
+    "tags": [
+      "Automotive"
+    ],
+    "language": "",
+    "dataId": "17495098",
+    "coverImg": "https://cdn.pdfdrive.com/assets/thumbs/e57/e5716fb609f993c21a0d796ee7f1813c-s.jpg",
+    "dataLoc": "183",
+    "pageCount": "139 Pages",
+    "pub_year": "2002",
+    "fileSize": "9.58 MB"
+  }
+]

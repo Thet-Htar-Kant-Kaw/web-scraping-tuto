@@ -1,0 +1,82 @@
+[
+  {
+    "catName": "Editor's Picks",
+    "catLink": "/category/113",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/113.jpg,q1.pagespeed.ce.mkYymIWWrJ.jpg"
+  },
+  {
+    "catName": "Most Popular",
+    "catLink": "/category/112",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/112.jpg,q1.pagespeed.ce.Xe6gOhTcER.jpg"
+  },
+  {
+    "catName": "Academic & Education",
+    "catLink": "/category/6",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/6.jpg,q1.pagespeed.ce.faGoLXw_Zo.jpg"
+  },
+  {
+    "catName": "Art",
+    "catLink": "/category/1",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/1.jpg,q1.pagespeed.ce.-rhdJZ7irU.jpg"
+  },
+  {
+    "catName": "Biography",
+    "catLink": "/category/16",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/16.jpg,q1.pagespeed.ce.zwzmmHmCkd.jpg"
+  },
+  {
+    "catName": "Business & Career",
+    "catLink": "/category/3",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/3.jpg,q1.pagespeed.ce.aSeZkTbnd7.jpg"
+  },
+  {
+    "catName": "Children & Youth",
+    "catLink": "/category/17",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/17.jpg,q1.pagespeed.ce.bADb2_dTk7.jpg"
+  },
+  {
+    "catName": "Environment",
+    "catLink": "/category/18",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/18.jpg,q1.pagespeed.ce.vjPjtEIVKT.jpg"
+  },
+  {
+    "catName": "Fiction & Literature",
+    "catLink": "/category/11",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/11.jpg,q1.pagespeed.ce.DGFb-dl2_M.jpg"
+  },
+  {
+    "catName": "Health & Fitness",
+    "catLink": "/category/8",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/8.jpg,q1.pagespeed.ce.OuzH2mMuOP.jpg"
+  },
+  {
+    "catName": "Lifestyle",
+    "catLink": "/category/19",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/19.jpg,q1.pagespeed.ce.HauFtH45bw.jpg"
+  },
+  {
+    "catName": "Personal Growth",
+    "catLink": "/category/4",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/4.jpg,q1.pagespeed.ce.DJYM8KxsPA.jpg"
+  },
+  {
+    "catName": "Politics & Laws",
+    "catLink": "/category/15",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/15.jpg,q1.pagespeed.ce.C7piLVryvI.jpg"
+  },
+  {
+    "catName": "Religion",
+    "catLink": "/category/10",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/10.jpg,q1.pagespeed.ce.w8ZghX1Xa9.jpg"
+  },
+  {
+    "catName": "Science & Research",
+    "catLink": "/category/14",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/14.jpg,q1.pagespeed.ce.FOEGkoiVh7.jpg"
+  },
+  {
+    "catName": "Technology",
+    "catLink": "/category/5",
+    "catImage": "https://www.pdfdrive.com/assets/img/cat/5.jpg,q1.pagespeed.ce.s9tlpDKaed.jpg"
+  }
+]
